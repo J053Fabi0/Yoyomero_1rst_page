@@ -1,0 +1,6 @@
+options -Indexes
+Indexignore *
+
+
+
+ErrorDocument 404 https://github.com/J053Fabi0/mocos/blob/master/error%20404.html
